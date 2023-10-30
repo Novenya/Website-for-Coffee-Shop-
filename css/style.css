@@ -3,8 +3,8 @@
  :root{
      --main-color:#bd8d52;
      --black:#725c40;
-     --bg:#0e0903;
-     --border:.1rem solid rgb(255, 255, 255);
+     --bg:#884506;
+     --border:.1rem solid rgb(83, 185, 35);
  }
  *{
      font-family: 'Roboto',sans-serif;
@@ -33,7 +33,7 @@
 }
 
 html::-webkit-scrollbar-thumb{
-    background: rgb(255, 255, 255);
+    background: rgb(76, 12, 226);
     border-radius: .5rem;
 }
 
